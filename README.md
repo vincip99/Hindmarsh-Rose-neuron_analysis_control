@@ -1,1 +1,1 @@
-# Hindmarsh-Rose Analysis and COntrol
+# Hindmarsh-Rose Analysis and Control
